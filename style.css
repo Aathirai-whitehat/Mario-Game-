@@ -1,0 +1,51 @@
+body{
+    background-image: url("background.jpg");
+}
+
+#start,#status{
+    font-size: 23px;
+}
+
+#big image{
+    width: 100%;
+}
+
+.heading{
+    width: 100%;
+    text-align: center;
+}
+
+.heading button{
+    float: right;
+    border: 2px solid dodgerblue;
+}
+
+.heading h3{
+    display: inline;
+}
+
+#footer{
+    bottom: 0;
+    margin: 0px;
+    background-color: plum;
+    position: fixed;
+    width: 100%;
+    font-size: 20px;
+    color: teal;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.ins{
+    display: inline;
+    width: 45%;
+}
+
+video{
+    background-image: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
